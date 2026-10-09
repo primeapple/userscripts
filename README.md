@@ -4,6 +4,14 @@ A collection of browser userscripts I've developed to enhance various websites.
 
 ## Userscripts
 
+### Jira Flag Icon
+
+Replaces Jira's flagged issue icon with a 🍺 emoji on Atlassian Cloud.
+
+#### Usage
+
+Install `jira-flag-icon.user.js` in Tampermonkey. Flagged issues on Jira boards and opened tickets will show 🍺 instead of the flag icon. Use **Change flag emoji…** in the Tampermonkey menu to choose another emoji; changes apply immediately and persist across reloads.
+
 ### PR to Markdown
 
 A simple userscript that adds a copy button next to GitHub and GitLab pull requests to copy the PR as markdown in the format `[PR Title](PR URL)`.

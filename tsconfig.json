@@ -8,5 +8,5 @@
     "target": "ES2024",
     "types": ["node", "tampermonkey"]
   },
-  "include": ["pr2markdown.user.js", "tests/**/*.mjs"]
+  "include": ["*.user.js", "tests/**/*.mjs"]
 }
