@@ -4,7 +4,7 @@ A collection of browser userscripts I've developed to enhance various websites.
 
 ## Userscripts
 
-### Jira Flag Icon — [![Tampermonkey](https://www.tampermonkey.net/favicon.ico) Install](https://github.com/primeapple/userscripts/raw/refs/heads/main/jira-flag-icon.user.js)
+### Jira Flag Icon — <a href="https://github.com/primeapple/userscripts/raw/refs/heads/main/jira-flag-icon.user.js"><img src="https://www.tampermonkey.net/favicon.ico" width="16" alt="Tampermonkey"> Install</a>
 
 Replaces Jira's flagged issue icon with a 🍺 emoji on Atlassian Cloud.
 
@@ -12,7 +12,7 @@ Replaces Jira's flagged issue icon with a 🍺 emoji on Atlassian Cloud.
 
 Install `jira-flag-icon.user.js` in Tampermonkey. Flagged issues on Jira boards and opened tickets will show 🍺 instead of the flag icon. Use **Change flag emoji…** in the Tampermonkey menu to choose another emoji; changes apply immediately and persist across reloads.
 
-### PR to Markdown — [![Tampermonkey](https://www.tampermonkey.net/favicon.ico) Install](https://github.com/primeapple/userscripts/raw/refs/heads/main/pr2markdown.user.js)
+### PR to Markdown — <a href="https://github.com/primeapple/userscripts/raw/refs/heads/main/pr2markdown.user.js"><img src="https://www.tampermonkey.net/favicon.ico" width="16" alt="Tampermonkey"> Install</a>
 
 A simple userscript that adds a copy button next to GitHub and GitLab pull requests to copy the PR as markdown in the format `[PR Title](PR URL)`.
 There is an option to add the repo shortand to the displayed text, making it `[user/repo - PR Title](PR URL)`.
