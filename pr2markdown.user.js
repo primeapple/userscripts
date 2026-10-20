@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PR to Markdown
 // @namespace    http://tampermonkey.net/
-// @version      1.1.0
+// @version      1.1.1
 // @description  Add a copy button to GitHub and GitLab pull requests to copy PR content as markdown
 // @author       You
 // @match        https://github.com/*
@@ -351,7 +351,7 @@
         tryAddCopyButton(platform);
       });
 
-      observer.observe(document.body, {
+      observer.observe(document.documentElement, {
         childList: true,
         subtree: true,
       });
