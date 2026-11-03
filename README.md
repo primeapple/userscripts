@@ -34,7 +34,6 @@ Supported platforms are:
 ### Userscript (Tampermonkey)
 
 For e.g. the `pr2markdown` script do the following:
-
 1. Install [Tampermonkey](https://www.tampermonkey.net/) extension in your browser
 2. Import the userscript via url in Tampermonkey (just open the raw userscript in GitHub, e.g. `https://github.com/primeapple/userscripts/raw/refs/heads/main/pr2markdown.user.js`)
 3. The script is now active on it's defined scope
